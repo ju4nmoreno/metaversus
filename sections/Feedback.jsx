@@ -40,7 +40,7 @@ const Feedback = () => (
         className='relative flex-1 flex justify-center items-center'
       >
         <img
-          src='/planet-09.png'
+          src='https://ju4nmoreno.github.io/metaversus/planet-09.png'
           alt='planet-09'
           className='w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]'
         />
@@ -49,7 +49,7 @@ const Feedback = () => (
           className='lg:block hidden absolute -left-[10%] top-[3%]'
         >
           <img
-            src='/stamp.png'
+            src='https://ju4nmoreno.github.io/metaversus/stamp.png'
             alt='stamp'
             className='w-[155px] h-[155px] object-contain'
           />
